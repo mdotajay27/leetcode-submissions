@@ -1,1 +1,1 @@
-### DSA-Java-Solutions
+### LeetCode-DSA-Java-Solutions
